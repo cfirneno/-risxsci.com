@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Configuration Module - Cancer Analysis Platform
 ==============================================
